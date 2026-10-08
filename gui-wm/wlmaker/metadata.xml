@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>11753516+pedro-pereira-dev@users.noreply.github.com</email>
+		<name>Pedro Pereira</name>
+	</maintainer>
+	<use>
+		<flag name="xwayland">Enable XWayland support for running X11 clients</flag>
+	</use>
+	<upstream>
+		<remote-id type="github">phkaeser/wlmaker</remote-id>
+	</upstream>
+</pkgmetadata>
